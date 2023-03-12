@@ -5,7 +5,9 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AppCoder/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppCoder/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.1.7.dist-info/AUTHORS" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.1.7.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.1.7.dist-info/LICENSE" afterDir="false" />
@@ -4279,12 +4281,20 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppCoder/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppCoder/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppCoder/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppCoder/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoCoder34675/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoCoder34675/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProyectoCoder34675/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoCoder34675/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -4310,6 +4320,12 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\franc\PycharmProjects\ProyectoCoder34675\templates" />
+      <recent name="C:\Users\franc\PycharmProjects\ProyectoCoder34675\AppCoder\static\AppCoder" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
